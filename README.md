@@ -1,5 +1,3 @@
-# ARP-Configuration
-ARP in LAN (4 PCs) - CPT Sim
 # Industrial Internet of Things (IIoT)
 ## Configuration of Address Resolution Protocol (ARP)
 
@@ -39,10 +37,10 @@ This simulation demonstrates ARP in action through a LAN topology where each PC 
 ---
 
 ### Simulated Circuit
-The complete logical layout is available in `screenshots/` folder.
+The complete logical layout is available in `Simulated Circuit/` folder.
 
 ---
 
 ### Execution Video
-A demonstration video is included in the `video/` folder.
+A demonstration video is included in the `Executed Video of the demo/` folder.
 
