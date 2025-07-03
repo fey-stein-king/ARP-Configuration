@@ -9,7 +9,7 @@ To simulate and understand the working of the Address Resolution Protocol (ARP) 
 ---
 
 ### Problem Statement
-In a Local Area Network (LAN), devices communicate using IP addresses, but actual data transmission occurs via MAC addresses. The Address Resolution Protocol (ARP) bridges this gap by resolving IP addresses to MAC addresses. This project demonstrates the ARP process in a simple LAN environment using Cisco Packet Tracer with 4 PCs connected through a switch.
+Construct simple LAN and understand the concept and operation of Address Resolution Protocol (ARP) using Cisco Packet Tracer. Utilize PCs, 8 port switch and LAN cable.
 
 ---
 
@@ -39,7 +39,7 @@ This simulation demonstrates ARP in action through a LAN topology where each PC 
 ---
 
 ### Simulated Circuit
-The complete logical layout is available in `screenshots/topology_4pcs.png`.
+The complete logical layout is available in `screenshots/` folder.
 
 ---
 
